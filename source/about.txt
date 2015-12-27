@@ -1,0 +1,8 @@
+Cops 'n Crime is an Top Down Shooter in the style of Counter-Strike 2D(http://cs2d.com/).
+===========================================================================================================================
+Credits : 
+http://cs2d.com/
+http://www.valvesoftware.com/
+http://counter-strike.net/
+http://www.unrealsoftware.de/files_show.php?file=14223
+http://www.unrealsoftware.de/files_show.php?file=15438

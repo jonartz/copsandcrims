@@ -1,0 +1,14 @@
+"Knife"		0
+"Glock 18"	1
+"USP"		2
+"P250"		3
+"Deagle"	4
+"MAC-10"	5
+"MP5"		6
+"P90"		7
+"M4A1"		8
+"AK47"		9
+"AWP"		10
+"HE Grenade"	11
+"Flashbang"	12
+"Smoke Grenade"	13

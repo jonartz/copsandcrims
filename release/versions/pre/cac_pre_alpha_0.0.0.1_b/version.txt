@@ -1,0 +1,10 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		Cops and Crims 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		Client Version:
+VERSION : "Pre-Alpha 0.0.0.1 B"	DATE : 12/26/2015
+		Server Version:
+VERSION : "Alpha 0.0.0.1 "	DATE : 12/26/2015
+		CaCEdit Version:
+VERSION : "Alpha 0.0.0.1"	DATE : 12/26/2015
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
